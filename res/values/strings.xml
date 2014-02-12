@@ -8,6 +8,6 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
-    <string name="loginTitle">Dairy Manager</string>
+    <string name="loginTitle">KIT</string>
     <string name="loginSubtitle">Automantion system for dairies</string>
 </resources>

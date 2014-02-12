@@ -31,7 +31,7 @@ public class LoginActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				if (edtTxtUserName.getText().toString().equals("manoj")&& edtTxtPassword.getText().toString().equals("KIT")) {
+				if (edtTxtUserName.getText().toString().equals("manoj")&& edtTxtPassword.getText().toString().equals("dgm")) {
 					//Here u can use application or activity context for toast context.
 					Toast.makeText(LoginActivity.this,"Login Successfully !!!", Toast.LENGTH_LONG).show();
 				} else {
